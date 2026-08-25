@@ -1,0 +1,6 @@
+{
+  "name": "The Internet Museum",
+  "description": "An interactive, immersive digital museum exploring the evolution of the internet through nostalgic eras, interactive retro exhibits, audio, and Easter eggs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
